@@ -1,0 +1,120 @@
+lines that utilize "dog" following words starting with "truck" .
+lines containing words that begin with "dog" and end with "truck"
+lines using a 5 letter sequence
+lines that list the word "dog" .
+lines that have 10 words .
+lines that contain a 9 letter word .
+lines that contain 3 letter words .
+lines that use the word "dog"
+lines containing "dog" before "truck"
+lines that contain any numbers .
+lines using "dog" in the middle of a word .
+4 letter lines
+lines containing "dog" or "truck" before "ring" or "lake"
+lines that end in "dog"
+lines using more than 3 characters
+lines that contain at least 1 digit .
+lines that contain "dog" after "truck" or "ring" .
+lines containing the word "dog"
+lines that contain "dog" or "truck" .
+lines that contain 6 letter words beginning with the letter "dog" .
+lines that are composed of 4 or more words .
+lines which start with "dog"
+lines that end with vowels .
+lines that contain words that have the letter "dog" occuring after the letter "truck" .
+lines containing "dog" or "truck" before "ring" or "lake"
+lines containing the text "dog"
+lines that have words ending in "dog"
+lines that contain at least 2 digits .
+lines that contain at least 2 words starting with "dog" in them .
+lines that match the words "dog" .
+lines that contain 5 words
+lines that have "dog" after "truck" or "ring" .
+lines ending in "dog"
+lines containing 1 instance of "dog" followed by an "truck" or a "ring"
+lines using "dog" or "truck"
+lines using the word "dog" or the word "truck"
+lines that start with "dog" or an
+lines that contain the number "dog" at least twice .
+lines using "dog"
+lines containing instances of "dog" found after "truck"
+lines containing words that start with "dog" and end with "truck" .
+lines having words ending with "dog" .
+lines using words ending in "dog"
+lines that contain words with "dog" .
+lines with no vowels
+lines containing usage of the word "dog" .
+lines using a word of 5 letters or less .
+lines using words that end with the letter "dog"
+lines that start with "dog" .
+lines which contain "dog"
+lines using "dog" , "truck" , or "ring"
+lines having words with "dog" .
+lines containing either a "dog" or "truck" character .
+lines starting with "dog"
+lines using at least 3 "dog"
+lines using "dog" or "truck"
+lines using words beginning with the letter "dog"
+lines that end in an "dog"
+lines using 3 instances of "dog"
+3 letter lines starting with "dog"
+lines containing the word "dog" .
+lines that end with "dog"
+lines that have 1 number
+lines that contain the word "dog" .
+lines that use a numerical number .
+lines using "dog" immediately after "truck"
+lines that end with "dog" .
+lines utilizing "dog"
+lines that match to the text "dog" .
+lines that have the word "dog" .
+lines that have more than 5 words ending with a "dog"
+lines which have instances of "dog" .
+lines that contain "dog" between words "truck" and "ring" .
+lines that contain at least 1 word starting with "dog" .
+lines that have at least 2 words that start with "dog" .
+lines which have "dog"
+lines where "dog" is separated from "truck" with a comma
+lines that end in "dog" and begins in "truck" .
+lines that start with "dog" and end in a number .
+lines that contain the text "dog"
+lines using 5 or more words .
+lines using the word "dog" .
+lines containing at least 2 words
+lines that start with the letter "dog" .
+lines that contain "dog" or "truck" before "ring" .
+lines that contain words ending with vowels .
+lines that have 3 characters after the first vowel
+lines that start with the letter "dog"
+lines that start with "dog"
+lines starting with "dog"
+lines using "dog" before "truck"
+lines that use words of at least 9 letters .
+lines using at least 5 "dog"
+lines that each begin with a vowel
+lines using 7 "dog"
+lines that start with words containing "dog" .
+lines using 2 words or more
+lines that have at least 6 characters
+lines that contain the word "dog" followed by at least 1 number .
+lines that only have 3 words
+lines where the number "dog" appears
+lines not containing 4 or more characters
+lines that contain instances of "dog" , but only if its 1 of the first 3 words .
+lines that contain the text "dog" .
+lines which do not contain the letter "dog" .
+lines containing words that start with "dog"
+lines containing 5 letter words .
+lines containing a word using the letters "dog" .
+lines containing at least 2 characters but not 4 characters or more
+lines using 6 instances of "dog"
+lines using words ending with "dog" .
+lines that contain the word "dog" .
+lines that contain numbers
+lines that contain the word "dog" .
+lines using the letter pair "dog"
+lines that do not contain the character "dog"
+lines that have a 2 letter sequence
+lines that begin with a number
+lines that contain at least 2 words beginging with "dog" .
+lines that have words with "dog" .

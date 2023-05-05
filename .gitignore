@@ -1,0 +1,6 @@
+caches*/
+decodes/
+ranked_decodes/
+__pycache__/
+*.pyc
+.vscode/

@@ -1,0 +1,120 @@
+lines that end with either a vowel or a capital letter
+lines with vowel followed by number before lower-case letter
+lines which contain a capital letter before a lower case letter zero or more times .
+lines in which a capital letter is followed by a "dog" string , coming before a letter that's lower-case
+lines with the string "dog" before a number or a letter in them
+lines with a lower-case letter at least 4 times or a vowel before a capital letter
+lines with 5 or more letters before a number
+lines containing a letter or 5 or more characters
+lines containing the string "dog" after words with a character
+items with a vowel , or "dog" , or a upper case letter preceding "truck" .
+lines with a number followed by a vowel , zero times before "dog"
+lines containing a vowel that is not preceded by the string "dog"
+lines with "dog" before "truck" or a vowel
+lines not having 4 times character
+lines with the string "dog" before "truck" then a number or string "truck" or "ring"
+lines with words with a lower-case letter or ending in string "dog"
+lines having upper case letters without the string "dog" or a number .
+lines containing a letter , 5 or more times followed by a lower-case letter
+lines which are starting with the string "dog" or a letter , zero or more times
+lines starting in the string "dog" or letter with a capital letter
+lines with a letter or a capital letter before either the string "dog" , a vowel , or the string "truck" in them
+lines with a number following a letter
+lines with 3 or more letters or the string "dog"
+lines containing words ending with a capital letter followed by the string "dog"
+lines containing  letter , 5 or more times
+lines with words and stating with the string "dog"
+lines with no capital letters before the string "dog"
+lines that have a lower-case letter preceded by a number
+lines with words that contain a number followed by a capital letter , 3 times or more
+the lines that start with the string "dog" followed by the string "truck" repeated 6 times or more
+6or more times in lines use a character before the string "dog"
+lines that contain a vowel , a character , or a number followed by the string "dog"
+lines ending with 2 or more lower-case letters or characters
+lines with a character before the string "dog" or lower-case letter
+lines that contain a "dog" string at least 3 times before a capital letter occurs
+lines with a capital letter 7 times before a vowel
+lines that conclude with the "dog" string , after which an upper-case letter is seen
+lines with words with 7 or more numbers
+lines with 6 or more of a character before a number
+lines with a character or a letter
+lines not ending in a vowel or letter
+lines that start with a number followed by a letter
+items with an upper case letter preceding a character at least twice .
+none of the lines should have a vowel , a capital letter , or the string "dog"
+lines beginning with a character preceded by a letter in lower-case
+lines that dont have lower-case letters , the string dog , or a number
+the string "dog" or a vowel appears 2 or more times in the end of the lines
+lines with the string "dog" or 5 or more of the string "truck"
+lines containing a lower-case letter after either the string "dog" , a number , or a letter
+lines with a vowel after a capital letter at least 3 times
+lines with "dog" or without "truck" , at least 7 times .
+items with a vowel preceding a letter preceding "dog" .
+lines that have the string "dog" that occurs before a vowel
+lower-case letter before 'dog or a vowel
+items with "dog" preceding a small letter or letter .
+items with an upper case letter or vowel preceding a numeral .
+lines with words with a capital letter , "dog" , or "truck"
+lines with 3 more capital letters
+items with either "dog" or a letter .
+lines with either a letter , a character , or the string "dog" followed by the string "truck"
+lines without the string "dog" , with any amount before a capital letter
+lines with words with a capital or lower-case letter
+lines starting in words with a number or letter
+lines  with 7 or more vowels
+lines with words with either a number , a lower-case letter , or a capital letter in them
+lines with words with the string "dog" before a letter or string "truck"
+lines with lower-case letter or vowel , 5 or more times
+lines with the string "dog" or number , 2 or more times
+lines which don't contain just a number
+lines with a number before vowel then string "dog"
+lines starting in 6 or more of a vowel or string "dog"
+lines with lower-case letter before a capital letter
+lines with 3 or more of a letter before capital letter
+lines are empty
+lines with a capital letter before a vowel then string "dog"
+lines with the string "dog" , a lower-case letter , or string 'truck before the string "truck"
+lines with the string "dog" or a character after a number
+lines with "dog" followed by 6 or more capital letters
+lines starting with words having a number or string "dog"
+lines start with 1 letter followed by vowel .
+lines that have a number followed by a letter
+lines that do not contain a number 5 or more times
+lines ending with "dog"
+lines with words that contain 5 or more of the string "dog"
+lines with words that don't have a lower-case letter followed by string "dog"
+lines where the string "dog" has a letter before it , no less than zero times
+lines with at least 1 capital letter with a character before it
+lines with a lower-case letter , vowel , or character
+lines ending with 2 or more characters
+lines with some kind of letter or vowel or the string "dog"
+lines with words with string "dog" before ending in letter
+lines with words with either a letter , vowel , or capital letter
+lines that contain words with a capital letter followed by the string "dog" , zero times or more
+your choice , lines with either the string "dog" or "truck"
+lines without a vowel or with capital letter
+lines contains the string "dog" , a character , or a capital letter at least 6 times
+lines with the string "dog" at least once or which are ending with a character
+lines ending with a vowel or letter
+lines with a capital letter before string "dog" or number
+lines with number containing only a character , 7 or more times
+items without a numeral , a letter , or "dog" .
+lines containing words having either a letter , a capital letter , or the string "dog" or the string "truck"
+lines with a7 or more of a capital letter or a letter before character
+lines with a lower-case letter followed by the string "dog" once or more
+lines that have the string 'ring , the string "dog" or the string "truck" before a letter
+lines with a number 2 times
+lines containing a lower-case letter or ending with a number 1 or more times
+lines with the string "dog" , zero or more times or starting with a vowel in them
+lines that contain a lower-case letter at least once
+lines which are starting with words that contain only the string "dog"
+lines with words and a letter before a capital letter and then the string "dog"
+lines starting in 2 or more characters
+lines containing a capital letter followed by the word "dog"
+lines with the string "dog" at least once not being the string "truck"
+lines with 6 or more letters before a lower-case letter
+lines not starting with character
+lines which are not having the string "dog" or a lower-case letter followed by the string "truck"
+lines that begin with a lower-case letter or the string "dog" , zero times or more
+lines containing "dog" or at least 1 capital letter
+lines which are starting with words with not a letter
